@@ -1,3 +1,7 @@
+"""
+01) Programa que convierte pesos mexicanos, argentinos y colombianos a dólares,
+	Usando programación estructurada
+"""
 #convierte pesos mexicanos, argentinos y colombianos a dólares
 
 # """ """ permite crear strings multilineas

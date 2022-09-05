@@ -1,3 +1,6 @@
+"""
+02) Programa para probar el uso de funciones
+"""
 def conversacion(mensaje):
     print('Hola, como estas? '+mensaje+". hasta luego...")
 

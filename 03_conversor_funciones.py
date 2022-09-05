@@ -1,3 +1,7 @@
+"""
+03) Programa que convierte pesos mexicanos, argentinos y colombianos a dólares,
+	Usando funciones
+"""
 #convierte pesos mexicanos, argentinos y colombianos a dólares usando funciones
 
 # Funcion Conversor
